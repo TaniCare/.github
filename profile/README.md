@@ -1,25 +1,62 @@
-## Hi the guardian of plants 🍃
+# Tani Care: Sahabat Para Petani 🌾
 
-# Tani Care : Sahabat Para Petani
+<p align="center">
+  <img src="Phone mockupTaniCare2.png" alt="Tani Care App Mockup" width="600">
+</p>
 
-This app was developed by Team C242-PS568 Bangkit Capstone Project
+## About Tani Care 🌱
 
-## Description
+Tani Care is an innovative mobile application designed to be your trusted companion in plant care and agriculture. Developed as part of the Bangkit Capstone Project by Team C242-PS568, our app leverages artificial intelligence to help farmers and plant enthusiasts identify plant diseases and maintain optimal plant health.
 
-Tani Care is a mobile app that provides information about the health of plants and provides information about the diseases that can be caused by the plants.
+## Features ⭐
 
+- 🔍 Plant Disease Detection
+- 📱 User-friendly Interface
+- 📊 Detailed Disease Information
+- 💡 Treatment Recommendations
+- 📖 Plant Care Guidelines
 
-## Our Team
+## Technology Stack 🛠️
 
-1. M258B4KY1141 - Dimas Dzaki Adani - Universitas Muhammadiyah Malang
-2. M119B4KY2745 - Muhammad Arsal Ranjana Utama - Institut Teknologi Sumatera
-3. M258B4KX3209 - Nadira Furqani - Universitas Muhammadiyah Malang
-4. C119B4KX3400 - Novi Fitria Ramadhan - Institut Teknologi Sumatera
-5. C119B4KY3628 - Rahmat Fadhil Syauqy.A - Institut Teknologi Sumatera
-6. A283B4KY1360 - Faisal Adama - Universitas Negeri Semarang
+- Machine Learning: TensorFlow, Python
+- Mobile Development: Kotlin, Android Studio
+- Cloud Computing: Google Cloud Platform
 
-## Repository
+## Our Team 👥
 
-1. [Machine Learning]()
-2. [Mobile Development]()
-3. [Cloud Computing](https://github.com/TaniCare/cloud-computing)
+| Name | Student ID | University | Role |
+|------|------------|------------|------|
+| Dimas Dzaki Adani | M258B4KY1141 | Universitas Muhammadiyah Malang | Machine Learning |
+| Muhammad Arsal Ranjana Utama | M119B4KY2745 | Institut Teknologi Sumatera | Machine Learning |
+| Nadira Furqani | M258B4KX3209 | Universitas Muhammadiyah Malang | Machine Learning |
+| Novi Fitria Ramadhan | C119B4KX3400 | Institut Teknologi Sumatera | Cloud Computing |
+| Rahmat Fadhil Syauqy.A | C119B4KY3628 | Institut Teknologi Sumatera | Cloud Computing |
+| Faisal Adama | A283B4KY1360 | Universitas Negeri Semarang | Android Development |
+
+## Project Repositories 📁
+
+Explore our development across different domains:
+
+[![ML Repo](https://img.shields.io/badge/Machine%20Learning-Repository-blue)](https://github.com/TaniCare/machine-learning)
+[![Mobile Repo](https://img.shields.io/badge/Mobile%20Development-Repository-green)](https://github.com/TaniCare/mobile-development)
+[![Cloud Repo](https://img.shields.io/badge/Cloud%20Computing-Repository-orange)](https://github.com/TaniCare/cloud-computing)
+
+## Getting Started 🚀
+
+1. Clone the repository
+2. Install dependencies
+3. Follow setup instructions in each repository
+
+## Contributing 🤝
+
+We welcome contributions! Please feel free to submit a Pull Request.
+
+## License 📄
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+<p align="center">
+  Made with ❤️ by Team C242-PS568
+</p>
