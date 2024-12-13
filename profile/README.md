@@ -1,12 +1,12 @@
-# Tani Care: Sahabat Para Petani 🌾
+# TaniCare: Sahabat Para Petani 🌾
 
 <p align="center">
-  <img src="Phone mockupTaniCare2.png" alt="Tani Care App Mockup" width="600">
+  <img src="Phone mockupTaniCare2.png" alt="TaniCare App Mockup" width="600">
 </p>
 
-## About Tani Care 🌱
+## About TaniCare 🌱
 
-Tani Care is an innovative mobile application designed to be your trusted companion in plant care and agriculture. Developed as part of the Bangkit Capstone Project by Team C242-PS568, our app leverages artificial intelligence to help farmers and plant enthusiasts identify plant diseases and maintain optimal plant health.
+TaniCare is an innovative mobile application designed to be your trusted companion in plant care and agriculture. Developed as part of the Bangkit Capstone Project by Team C242-PS568, our app leverages artificial intelligence to help farmers and plant enthusiasts identify plant diseases and maintain optimal plant health.
 
 ## Features ⭐
 
